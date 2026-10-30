@@ -18,8 +18,9 @@ collection of domain-specific prompt engineering and mental models— from aeros
 * **The Inspiration:** International aerospace standard controlled vocabulary designed to eliminate ambiguity, complex syntax, and translation errors in maintenance manuals.
 * **The Style:** Forces the AI to use a restricted vocabulary, strict active voice, short sentences, and standardized technical terms.
 * **The Prompt Blueprint:**
+```bash
   > *"Adhere strictly to ASD-STE100 Simplified Technical English standards for this response. Use only approved vocabulary, write sentences under 20 words, use active voice exclusively, and eliminate all descriptive filler, corporate jargon, and ambiguous modifiers."*
-
+```
 ---
 
 ### 2. 3Blue1Brown (Intuitive Mathematical Narration) aka 3b1b style videos
